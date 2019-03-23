@@ -4,7 +4,7 @@ In this notebook I extract Steph Curry's shot chart data for the 2017-2018 seaso
 
 ## Visualizations
 Every single shot taken by Steph Curry during the 2017-2018 season shown on court:
-![All shots displayed on court](https://user-images.githubusercontent.com/34380828/54870844-04991180-4d7a-11e9-910e-0283419b5147.png)
+![All shots displayed on court](https://user-images.githubusercontent.com/34380828/54870929-d831c500-4d7a-11e9-8a41-a0f0a9483691.png)
 
 Heatmap using kernel density estimation (KDE) jointplot:
 ![KDE jointplot](https://user-images.githubusercontent.com/34380828/54870855-26929400-4d7a-11e9-8699-6e614e8c5157.png)
