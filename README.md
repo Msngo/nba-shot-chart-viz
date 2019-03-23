@@ -1,6 +1,6 @@
 # NBA Shot Chart Visualization Exercise
 
-In this notebook I extract Steph Curry's shot chart data for the 2017-2018 season and plot it using `matplotlib` and `seaborn`. This analysis is largely inspired by Savvas Tjortjoglou's post: [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html). Each step is outlined in the Jupyter Notebook found in this repository. The output visualizations can be found below:
+In this notebook I extract Steph Curry's shot chart data for the 2017-2018 season and plot it using `matplotlib` and `seaborn`. This exercise is largely inspired by Savvas Tjortjoglou's post: [How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html). Each step I have taken is outlined in the Jupyter Notebook found in this repository. The output visualizations can be found below.
 
 ## Visualizations
 Every single shot taken by Steph Curry during the 2017-2018 season shown on court:
